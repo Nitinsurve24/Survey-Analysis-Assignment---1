@@ -1,0 +1,74 @@
+Q.1 Which team are you supporting in the T20 World Cup?
+    Option - (All 20 teams name)
+
+Q.2 How closely do you follow T20 cricket?
+    Option - Very closely
+             Somewhat closely
+             Occasionally
+             Not at all
+
+Q.3 How do you plan to watch the T20 World Cup matches?
+    Options- Television
+             Online streaming
+             In-person at the stadium
+             Radio
+             Not planning to watch
+
+Q.4 Which of the following aspects of the tournament are you most excited about?
+Options- Watching your favorite team play
+         Exciting matches and close finishes
+         The atmosphere in the USA and West Indies
+         Other (Please specify):
+
+Q.5 How satisfied are you with the decision to host the T20 World Cup in the USA and West Indies?
+Options- Very satisfied
+         Satisfied
+         Neutral
+         Dissatisfied
+         Very dissatisfied
+
+Q.6 Who do you think will be the highest run-scorer of the tournament?
+Options - Virat Kohli
+          Babar Azam
+          David Warner
+          Jos Buttler
+          Other (Please Specify):
+
+Q.7 Which team do you think will win the T20 World Cup?
+Options -   Option - (All 20 teams name)
+
+Q.8 Who do you think will be the highest wicket-taker of the tournament?
+Options - Jasprit Bumrah
+          Shaheen Afridi
+          Mitchell Starc
+          Jofra Archer
+          Other (Please specify):
+
+Q.9 How likely are you to engage with T20 World Cup content on social media?
+Options- Very likely
+         Somewhat likely
+         Neutral
+         Somewhat unlikely
+         Very unlikely
+
+Q.10 How often do you discuss T20 cricket with your friends and family?
+Options- Daily
+         A few times a week
+         Once a week
+         Rarely
+         Never
+
+Q.11 What is your age group?
+Options - Under 18
+          18-24
+          25-34
+          35-44
+          45-54
+          55-64
+          65 and above
+
+Q.12 What is your gender?
+Options - Male
+          Female
+          Other
+          Prefer not to say
